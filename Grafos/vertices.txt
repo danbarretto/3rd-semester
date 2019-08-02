@@ -1,0 +1,180 @@
+total: 20
+
+nome: Daniel
+idade: 20
+cidade: São Carlos
+gêneroFilme: Ficção
+consoleFavorito: Switch
+AreaAtuação: Programação
+time: Palmeiras
+
+
+nome: Daniela
+idade: 22
+cidade: São Carlos
+consoleFavorito: PS4
+gêneroFilme: Romance
+AreaAtuação: Escritora
+time: São Paulo
+
+
+nome: Tiago
+idade: 19
+cidade: São Carlos
+consoleFavorito: PS4
+gêneroFilme: Esportes Aquáticos
+AreaAtuação: Estudante
+time: São Caetano
+
+
+nome: Fernando
+idade: 25
+cidade: São Carlos
+consoleFavorito: PS4
+gêneroFilme: Marvel
+AreaAtuação: Estudante
+time: Palmeiras
+
+
+nome: Marcello
+idade: 53
+cidade: Teresópolis
+consoleFavorito: PC
+gêneroFilme: A Culpa é do PT
+AreaAtuação: Advogado
+time: Palmeiras
+
+
+nome: Flávia
+idade: 50
+cidade: São Paulo
+consoleFavorito: PC
+gêneroFilme: Policial
+AreaAtuação: Engenheiro
+time: Palmeiras
+
+
+nome: João Guilherme
+idade: 19
+cidade: São Carlos
+consoleFavorito: 3DS
+gêneroFilme: Ficção
+AreaAtuação: Vagabundagem
+time: São Caetano
+
+
+nome: Luísa
+idade: 20
+cidade: São Carlos
+consoleFavorito: Xbox
+gêneroFilme: Comédia Romântica
+AreaAtuação: Vagabundagem
+time: Palmeiras
+
+
+nome: Daniel
+idade: 20
+cidade: Recife
+consoleFavorito: DSLite
+gêneroFilme: Drama
+AreaAtuação: Fogger
+time: Figueira
+
+
+nome: Regina
+idade: 49
+cidade: Recife
+consoleFavorito: PC
+gêneroFilme: Comédia Romântica
+AreaAtuação: Empresário
+time: Corinthians
+
+
+nome: Lúcio
+idade: 60
+cidade: Recife
+consoleFavorito: PC
+gêneroFilme: A Culpa é do PT
+AreaAtuação: Empresário
+time: Corinthians
+
+
+nome: Eduardo
+idade: 12
+cidade: Pinhal
+consoleFavorito: Polystation3
+gêneroFilme: Gore
+AreaAtuação: Gamer
+time: PinhalPC
+
+
+nome: Juscelina
+idade: 50
+cidade: Pinhal
+consoleFavorito: Peão
+gêneroFilme: Cinema Mudo
+AreaAtuação: Aposentado
+time: PinhalPC
+
+
+nome: Ana
+idade: 13
+cidade: Piraporinha de Santo Jesus
+consoleFavorito: Polystation3
+gêneroFilme: A Culpa é do PT
+AreaAtuação: Estudante
+time: PinhalPC
+
+
+nome: DarkSorcerer69
+idade: 9
+cidade: São Paulo
+consoleFavorito: PS4
+gêneroFilme: Comédia
+AreaAtuação: Gamer
+time: CNB
+
+
+nome: G4m3r Gurl
+idade: 23
+cidade: São Carlos
+consoleFavorito: PC
+gêneroFilme: Esportes Aquáticos
+AreaAtuação: Gamer
+time: CNB
+
+
+nome: XxXMeninoRuivinSafadin21CmXxX
+idade: 12
+cidade: Piraporinha de Santo Jesus
+consoleFavorito: PS2
+gêneroFilme: Comédia
+AreaAtuação: Gamer
+time: PinhalPC
+
+
+nome: Josevaldo
+idade: 43
+cidade: São Paulo
+consoleFavorito: Jornal
+gêneroFilme: Policial
+AreaAtuação: Porteiro
+time: Corinthians
+
+
+nome: Beatriz
+idade: 30
+cidade: Recife
+consoleFavorito: 3DS
+gêneroFilme: Comédia
+AreaAtuação: Porteiro
+time: Palmeiras
+
+nome: Beto
+idade: 33
+cidade: Barretos
+consoleFavorito: DSLite
+gêneroFilme: Velho Oeste
+AreaAtuação: Vaqueiro
+time: CNB
+

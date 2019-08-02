@@ -1,4 +1,4 @@
 all:
-	gcc -o exec *.c
+	gcc -o exec main.c registro.c escreverTela2.c
 run:
 	./exec
